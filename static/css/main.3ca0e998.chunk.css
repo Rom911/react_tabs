@@ -1,0 +1,2 @@
+.tabs{margin:0;padding:0;display:flex}.tabs__item{list-style:none}.tabs__button{position:relative;top:2px;padding:12px;letter-spacing:1px;font-weight:600;background-color:#fef9e7;border:transparent;cursor:pointer;color:#2874a6;transition:color .3s,border .7s}.tabs__button--active{z-index:1;border:2px solid;border-color:#ddd #ddd #fef9e7;border-radius:3px;color:#000}body{margin:3%;font-family:Helvetica,sans-serif;background-color:#fef9e7}.app__content{padding-top:20px;margin:0;border-top:2px solid #ddd}
+/*# sourceMappingURL=main.3ca0e998.chunk.css.map */
